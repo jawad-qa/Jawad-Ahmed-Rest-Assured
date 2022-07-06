@@ -68,3 +68,11 @@ public class Chapter1Test {
         //     body("places[]", equalTo("'Cat 1', 'Cat 2', 'Dog 1', 'Lion 1', 'Lion 2', 'Lion 3', 'dogJan', 'doggie', 'doggie'"));
     }
 }
+/*
+    <groupId>org.example</groupId>
+    <artifactId>Rest-Assured Automation</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <groupId>org.example</groupId>
+    <artifactId>Rest-Assured Automation</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    */
